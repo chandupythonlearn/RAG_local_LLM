@@ -1,2 +1,2 @@
 # RAG_local_LLM
-This is the Repository for building RAG application using local LLM's
+This is to analyze your CSV data with RAG application using local LLM (Mixtral)
