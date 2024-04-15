@@ -2,3 +2,5 @@ langchain
 langchain_community
 pandas
 streamlit
+langchain_experimental
+tabulate
