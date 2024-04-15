@@ -1,4 +1,4 @@
-# RAG_local_LLM
+# rag_csv_local_llm
 This is to analyze your CSV data with RAG application using local LLM (Mixtral)
 
 * First install the ollama in your local machine.
