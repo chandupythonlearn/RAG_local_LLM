@@ -18,9 +18,9 @@ This is to analyze your CSV data with RAG application using local LLM (Mixtral)
     pip install -r requirements.txt
 ```
 * Run below command to start the APP, which will open the app in your browser
-    * ``` ruby
-          streamlit run stremlite.py
-      ```
+  ``` ruby
+  streamlit run stremlite.py
+  ```
  
 
 Below is the output of my sample CSV analysis:
