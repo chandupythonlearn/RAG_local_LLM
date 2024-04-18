@@ -14,7 +14,7 @@ This is to analyze your CSV data with RAG application using local LLM (Mixtral)
     git clone git@github.com:chandupythonlearn/RAG_local_LLM.git
     cd rag_csv_local_llm
     python3.10 -m venv env
-    source ~/rag_csv_local_llm/env/bin/activate
+    source ~RAG_local_LLM/rag_csv_local_llm/env/bin/activate
     pip install -r requirements.txt
 ```
 * Run below command to start the APP, which will open the app in your browser
