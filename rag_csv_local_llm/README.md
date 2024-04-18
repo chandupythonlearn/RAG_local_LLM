@@ -1,5 +1,5 @@
 # rag_csv_local_llm
-This is to analyze your CSV data with RAG application using local LLM (Mixtral)
+This is to analyze your CSV data with RAG application using local LLM (Mistral)
 
 * First install the ollama in your local machine.
   * Ex: link to install ollama in local mac machine (https://ollama.com/download/mac)
@@ -8,7 +8,7 @@ This is to analyze your CSV data with RAG application using local LLM (Mixtral)
       * If service already running then you will see below message
           * Error: listen tcp 127.0.0.1:11434: bind: address already in use
 * Now Pull the required, open source LLM Model
-    * EX: ```ollama run mixtral``` ( First time it will take some time to download the LLM package)
+    * EX: ```ollama run mistral``` ( First time it will take some time to download the LLM package)
 
  ``` ruby
     git clone git@github.com:chandupythonlearn/RAG_local_LLM.git
